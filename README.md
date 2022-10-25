@@ -1,10 +1,4 @@
-# Projekt startowy dla aplikacji "Lista Zadań".
-
-## Sprawdzenie wersji Angular CLI
-`ng --version`
-
-## Sprawdzenie wersji Node.js
-`node -v`
+# rzykład prostej aplikacji "Lista Zadań".
 
 ## Wymagania projektu
 - Angular CLI: 9.0.0-rc.7
